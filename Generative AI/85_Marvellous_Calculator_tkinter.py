@@ -2,7 +2,7 @@
 #              Marvellous Infosystems
 # =========================================================
 # Project Name : Marvellous Infosystems Calculator
-# Author       : Piyush Manohar Khairnar
+# Author       : Pratiksha Kalyan Chavan
 # Date         : 09/05/2026
 # =========================================================
 
