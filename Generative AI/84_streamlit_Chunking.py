@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Marvellous Infosystems by Piyush Manohar Khairnar")
+st.title("Programming by Pratiksha Kalyan Chavan")
 
 text = st.text_area("Enter Text")
 
