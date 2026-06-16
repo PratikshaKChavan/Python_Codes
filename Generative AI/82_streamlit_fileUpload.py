@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Marvellous Infosystems by Piyush Manohar Khairnar")
+st.title("Programming by Pratiksha Kalyan Chavan")
 
 uploaded_file = st.file_uploader(
     "Upload PDF",
